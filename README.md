@@ -6,3 +6,4 @@ docker run -d  -p 9090:9090 finastra-ws-processor
 
 or - interactive (for debuging):
 docker run -it -p 9090:9090 finastra-ws-processor
+# websockets-pub-sub
