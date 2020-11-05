@@ -5,6 +5,8 @@
 
 2) docker run -d  -p 9090:9090 ws-processor
 
-### or - interactive (for debuging):
+#### or - interactive (for debuging):
 docker run -it -p 9090:9090 ws-processor
 
+#### and for running the publisher:
+3) python3 ./Publisher/ws-main.py
